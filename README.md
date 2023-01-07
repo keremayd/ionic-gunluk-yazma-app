@@ -1,0 +1,1 @@
+# ionic-gunluk-yazma-app
